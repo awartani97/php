@@ -1,3 +1,4 @@
 # php
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/16495b1046194db78857d4be1300211f)](https://app.codacy.com/app/awartani97/php?utm_source=github.com&utm_medium=referral&utm_content=awartani97/php&utm_campaign=Badge_Grade_Dashboard)
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/16495b1046194db78857d4be1300211f)](https://app.codacy.com/app/awartani97/php?utm_source=github.com&utm_medium=referral&utm_content=awartani97/php&utm_campaign=Badge_Grade_Dashboard)
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/16495b1046194db78857d4be1300211f)](https://app.codacy.com/app/awartani97/php?utm_source=github.com&utm_medium=referral&utm_content=awartani97/php&utm_campaign=Badge_Grade_Dashboard)
